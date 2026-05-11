@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data science outputs
+*.joblib
+*.pkl
+
+# System files
+Thumbs.db
