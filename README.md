@@ -1,15 +1,16 @@
 # Machine Learning and Deep Learning Portfolio
 
-This repository contains end-to-end machine learning projects for supervised learning, unsupervised learning, reinforcement learning, and deep learning.
+This repository contains applied machine learning, deep learning, natural language processing, and end-to-end data science projects. The goal is to demonstrate practical skills in data cleaning, feature engineering, model training, model evaluation, interpretation, and communication of results.
 
-## Featured Projects
+## Portfolio Focus
 
-1. `01_supervised_churn_prediction`
-2. `02_unsupervised_customer_segmentation`
-3. `03_reinforcement_learning_dynamic_pricing`
+- Supervised and unsupervised machine learning
+- Deep learning with neural networks
+- Natural language processing
+- End-to-end applied data science workflows
 
 ## Archive
 
-Older notebooks from previous learning projects are stored in:
+Older notebooks from 2020:
 
 `archive/old_colab_notebooks/`
