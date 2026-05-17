@@ -1,0 +1,14 @@
+# Bias-Variance Tradeoff
+The Bias-Variance Tradeoff explains the balance between two sources of prediction error in machine learning.
+
+Bias is error from a model being too simple. A high bias model misses important patterns and underfits the data. Example: using a straight line to model a strongly curved relationship.
+
+Variance is the error from a model being too sensitive to the training data. A high-variance model learns noise rather than the true pattern and overfits the data. Example: using a very high-degree polynomial that perfectly follows every training point but performs poorly on new data.
+
+The goal is to find a model that is flexible enough to learn the real pattern, but not so flexible that it memorizes noise.
+
+
+# Solving the Bias-Variance Tradeoff:
+1. Regularization: Ridge and Lasso Regressions
+2. Bagging
+3. Boosting
