@@ -1,5 +1,7 @@
 # Machine Learning and Deep Learning Portfolio
 
+![Extra Trees Model](../03_ensemble/tree_plot.png)
+
 This repository contains applied machine learning, deep learning, natural language processing, and end-to-end data science projects. The goal is to demonstrate practical skills in data cleaning, feature engineering, model training, model evaluation, interpretation, and communication of results.
 
 ## Portfolio Focus
